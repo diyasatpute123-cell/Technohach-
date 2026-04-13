@@ -1,7 +1,7 @@
 # 🚀 TechnoHacks Internship Repository
 
 ## 👩‍💻 Author
-**Anushka Dighe**
+**Diya**
 
 ---
 
